@@ -1,0 +1,16 @@
+tbody tr td {
+}
+.fluid {
+    width: 100%;
+    height: 100%;
+}
+.banner .site_tittle {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: center;
+
+}
+.body table {
+    text-align: center;
+    float: left;
+}
